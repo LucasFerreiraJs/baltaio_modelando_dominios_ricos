@@ -1,0 +1,12 @@
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\bin\Debug\net6.0\PaymentContext.Shared.deps.json
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\bin\Debug\net6.0\PaymentContext.Shared.dll
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\bin\Debug\net6.0\PaymentContext.Shared.pdb
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.csproj.AssemblyReference.cache
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.AssemblyInfo.cs
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.dll
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\refint\PaymentContext.Shared.dll
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\PaymentContext.Shared.pdb
+F:\www\baltaio\baltaio_modelando_dominios_ricos\PaymentContext.Shared\obj\Debug\net6.0\ref\PaymentContext.Shared.dll

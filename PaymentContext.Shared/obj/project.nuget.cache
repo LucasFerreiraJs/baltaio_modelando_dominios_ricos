@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n77GEJPBuvw+Ctg6kNVJuZXKgAbcmCz5dkB3iPlRSj4a8Xw2vddUod2/nkUv5LJb8eHs5KGICfvsORsZQq46zg==",
+  "success": true,
+  "projectFilePath": "F:\\www\\baltaio\\baltaio_modelando_dominios_ricos\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casfe\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
